@@ -33,7 +33,7 @@ const CreateTask = () => {
       if (assignTo === elem.firstname) {
         return {
           ...elem,
-          tasks: [...elem.tasks, task], // add new task immutably
+          tasks: [...elem.tasks, task], 
           taskCount: {
             ...elem.taskCount,
             newTask: elem.taskCount.newTask + 1,
