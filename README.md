@@ -1,4 +1,9 @@
-# React + Vite
+# Employee Management System
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/abcd1234-5678-efgh-91011/deploy-status)](https://employee-management-system.netlify.app)
+
+A web-based Employee Management System built using ...
+React + vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
